@@ -7,7 +7,7 @@ You can install this plugin into your CakePHP application using [composer](https
 The recommended way to install composer packages is:
 
 ```
-composer require BeholderHive/StockCakeSon
+composer require beholderhive/stock-cake-son
 ```
 
 Update your 'config/bootstrap.php'.
